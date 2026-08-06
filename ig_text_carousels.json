@@ -1,0 +1,571 @@
+{
+  "brand": {
+    "handle": "@fitxmattt",
+    "site": "https://kovokilla.github.io/fitxmatt/",
+    "cta_word": "SYSTEM",
+    "cta_link": "https://lnkd.in/eu5djaTU"
+  },
+  "rotation_note": "Auto-split from ig_text_posts.json (3 prose slides each).",
+  "carousels": [
+    {
+      "id": "t01",
+      "theme": "DAILY LIFE & RELATABILITY",
+      "label": "Daily Life #1",
+      "slide1": "Lunch at my desk. Again.\n\nNot because I didn't have time to leave. Because by the time my morning standup ended, I had a sprint review, a production incident, and a 1:1 with my manager — and suddenly it was 1:47pm and I hadn't eaten since 7am.\n\nThis was my life for 13 years in corporate IT.",
+      "slide2": "A granola bar from the kitchen drawer. A bag of chips from the vending machine. Whatever was fast enough to eat between Slack messages.\n\nAnd then I wondered why I had zero energy by 3pm and couldn't stop eating after dinner.\n\nIf you're an IT professional and your lunch routine looks anything like this, you're not undisciplined. You're just optimizing for the wrong system.",
+      "slide3": "Your nutrition needs to fit your actual calendar — not some influencer's 4-hour meal prep Sunday routine.\n\nI help busy IT pros lose 20 lbs in 12 weeks with a system that actually works around a packed schedule."
+    },
+    {
+      "id": "t02",
+      "theme": "DAILY LIFE & RELATABILITY",
+      "label": "Daily Life #2",
+      "slide1": "3pm. The wall hits.\n\nEvery IT professional knows this feeling. Your brain just… stops. Thoughts get slower. The code on your screen starts blurring. Your hand reaches for another coffee or an energy drink — not because you want it, but because you need to keep going.",
+      "slide2": "I used to think this was just part of the job. Long hours, high mental load, that's the deal.\n\nTurns out, the 3pm crash is almost entirely a nutrition problem. And it's fixable without quitting your job, changing your hours, or going to bed at 9pm.",
+      "slide3": "After 13 years in corporate IT and watching this happen to myself and colleagues every single day, I built a nutrition system specifically for desk workers.\n\nBecause the solution isn't more caffeine. It's understanding what your body needs when you're doing high-intensity cognitive work all day."
+    },
+    {
+      "id": "t03",
+      "theme": "DAILY LIFE & RELATABILITY",
+      "label": "Daily Life #3",
+      "slide1": "On-call week ruined every diet I ever tried.\n\nYou can't meal prep when you're getting paged at 2am. You can't stick to your routine when a production outage wipes out your Tuesday. You can't \"eat clean\" when you finally get a break and the only thing open is a drive-through.",
+      "slide2": "Generic nutrition advice has never accounted for the chaos of on-call life. That's why it never works for IT professionals.\n\nAfter 13 years in corporate IT — including more on-call rotations than I can count — I designed a nutrition approach that bends around your schedule, not the other way around.",
+      "slide3": "No rigid meal plans. No \"you must eat every 3 hours.\" Just a flexible system that keeps you on track even when your week goes sideways.\n\nBecause for IT people, the week always goes sideways."
+    },
+    {
+      "id": "t04",
+      "theme": "DAILY LIFE & RELATABILITY",
+      "label": "Daily Life #4",
+      "slide1": "Six meetings before noon.\n\nBy the time I got to actually do any real work, I was already mentally drained. Decision fatigue is real — and it hits IT professionals harder than almost any other profession.",
+      "slide2": "Here's the problem nobody talks about: decision fatigue doesn't just affect your work. It tanks your nutrition choices too.\n\nAfter a full day of architectural decisions, debugging, and stakeholder calls, your brain has nothing left for \"what should I eat tonight?\" So you default to whatever's easiest. Which is usually whatever's closest, cheapest, and highest in calories.\n\nThis isn't a willpower issue. It's a cognitive load issue.",
+      "slide3": "The fix isn't discipline. It's removing the decisions entirely — having a system so simple that it runs on autopilot even when your brain is fried.\n\nThat's exactly what I build for IT professionals."
+    },
+    {
+      "id": "t05",
+      "theme": "DAILY LIFE & RELATABILITY",
+      "label": "Daily Life #5",
+      "slide1": "Skipping breakfast isn't intermittent fasting if you're just too busy to eat.\n\nThere's a difference between a strategic eating window and simply forgetting to have food before your 8am standup, your 9am planning meeting, and your 10am client call.",
+      "slide2": "One is intentional. The other is survival mode.\n\nMost IT professionals I talk to are in survival mode with their nutrition — not making choices, just reacting. Eating when there's a gap. Grabbing whatever's in the office kitchen. Hitting the vending machine when energy tanks at 2pm.",
+      "slide3": "That's not a plan. And it's slowly adding weight year after year.\n\nAfter 13 years in corporate IT and helping dozens of IT professionals lose weight without overhauling their lives, I know exactly how to turn survival mode into a system."
+    },
+    {
+      "id": "t06",
+      "theme": "DAILY LIFE & RELATABILITY",
+      "label": "Daily Life #6",
+      "slide1": "The commute used to be my excuse.\n\nHour each way. Sitting in traffic or on a train. By the time I got home, it was 7:30pm and I had nothing left. The gym? Not a chance. Cooking a healthy meal? Maybe if I had energy, which I didn't.",
+      "slide2": "Sound familiar?\n\nNow I work hybrid. And somehow I'm still gaining weight — because remote work replaced the commute with back-to-back virtual meetings, and the kitchen is now three steps away and full of snacks.",
+      "slide3": "The problem was never the commute. It was never the office. It was that nobody ever gave IT professionals a nutrition system designed for how we actually live.\n\nThat's what I do."
+    },
+    {
+      "id": "t07",
+      "theme": "DAILY LIFE & RELATABILITY",
+      "label": "Daily Life #7",
+      "slide1": "Your Slack notification sound is a stress response trigger.\n\nEvery ping raises your cortisol slightly. Every on-call alert spikes it. Every production issue sends it through the roof.",
+      "slide2": "High cortisol doesn't just make you stressed. It makes you hungry. Specifically for high-calorie, high-carb foods. It signals your body to store fat, especially around your midsection.\n\nIT professionals are in a near-constant low-level stress state. And most nutrition advice completely ignores this.",
+      "slide3": "That's why the standard \"eat less, move more\" approach fails for tech workers. It doesn't account for what chronic workplace stress does to your metabolism and hunger signals.\n\nAfter 13 years in corporate IT and becoming a certified nutrition coach, I built a system that accounts for the real biological impact of high-stress desk work."
+    },
+    {
+      "id": "t08",
+      "theme": "DAILY LIFE & RELATABILITY",
+      "label": "Daily Life #8",
+      "slide1": "Friday afternoon. Sprint done. The team orders pizza.\n\nYou've been good all week. But you're exhausted, you want to celebrate, and the pizza is right there.",
+      "slide2": "This is the moment every diet collapses for IT professionals. Not because of a lack of discipline — because the nutrition plan never accounted for the social rhythms of a tech team.\n\nTeam lunches. Post-deployment beers. Conference catering. The office candy bowl that somehow lives next to your desk.",
+      "slide3": "A nutrition system that doesn't survive real office life is just a theory.\n\nI help IT professionals lose 20 lbs in 12 weeks with a system built for real work environments — including the team pizza order."
+    },
+    {
+      "id": "t09",
+      "theme": "DAILY LIFE & RELATABILITY",
+      "label": "Daily Life #9",
+      "slide1": "Nobody talks about what sitting does to your hunger hormones.\n\n8-10 hours of sitting a day — which is normal for IT professionals — suppresses the hormones that signal fullness and dysregulates the ones that signal hunger.",
+      "slide2": "In plain terms: you're more likely to feel hungry, less likely to feel full, and more likely to overeat in the evening. Not because of willpower. Because of biology.\n\nThis is why so many IT professionals eat \"fine\" during the day and then can't stop eating after dinner. The body is catching up.",
+      "slide3": "Understanding this one mechanism changed everything for my clients. Because once you know why it's happening, you can actually fix it.\n\nI spent 13 years in corporate IT before I became a nutrition coach. I built my system around how desk-worker bodies actually behave."
+    },
+    {
+      "id": "t10",
+      "theme": "DAILY LIFE & RELATABILITY",
+      "label": "Daily Life #10",
+      "slide1": "Home office. Standing desk that I never stand at.\n\nI bought it two years ago with the best intentions. I'd stand for half the day, get some movement in, feel better. For the first week, I stood every morning.",
+      "slide2": "Now it's just an expensive regular desk.\n\nThe problem with most health advice for remote workers is that it requires ongoing willpower to execute. Stand more. Move more. Take breaks. Walk at lunch.\n\nAll good ideas. None of them stick when you're three hours into debugging a critical issue.",
+      "slide3": "What actually works is building nutrition around the sedentary reality — not pretending it doesn't exist.\n\nThat's the difference between generic health advice and a system built for how IT professionals actually work."
+    },
+    {
+      "id": "t11",
+      "theme": "PAIN POINTS",
+      "label": "Pain Points #1",
+      "slide1": "Ten years ago, I was 30 lbs lighter.\n\nNot because I was trying. Not because I had a great diet. I just hadn't spent a decade sitting at a desk yet.",
+      "slide2": "The weight came on slowly. A pound or two a year. Easy to ignore until one day you look at a photo from a work event and don't recognize yourself.\n\nThat's the moment most IT professionals I talk to describe as the wake-up call. Not a dramatic event. Just a photo. Or trousers that stopped fitting. Or a doctor's comment about blood pressure at an annual checkup.",
+      "slide3": "The slow, gradual weight gain of desk work is insidious precisely because it's so easy to normalize.\n\nIf you're in that moment right now — I help IT professionals lose 20 lbs in 12 weeks with a system built for your life, not a generic template."
+    },
+    {
+      "id": "t12",
+      "theme": "PAIN POINTS",
+      "label": "Pain Points #2",
+      "slide1": "The doctor's words hit differently when you're 40.\n\n\"Your blood pressure is a little elevated.\" \"Your cholesterol is borderline.\" \"You might want to think about your weight.\"",
+      "slide2": "IT professionals are problem-solvers by nature. But when it comes to health, many of us wait until there's a system alert before we pay attention.\n\nBy that point, the problem has usually been building for years.",
+      "slide3": "I know this because I lived it. 13 years in corporate IT, gradual weight gain, a checkup that made me take the issue seriously for the first time.\n\nIf your doctor has started dropping hints, or if you already know without needing a doctor to tell you — now is the right time. And there's a system that fits your actual life."
+    },
+    {
+      "id": "t13",
+      "theme": "PAIN POINTS",
+      "label": "Pain Points #3",
+      "slide1": "Video calls changed everything.",
+      "slide2": "Before remote work, most of us could avoid mirrors and cameras most of the day. Now there's a camera on every meeting, pointed directly at your face and upper body, for six hours a day.\n\nI hear this from IT professionals constantly — the discomfort of being on camera. The habit of turning it off. The self-consciousness that wasn't there a few years ago.",
+      "slide3": "This isn't vanity. It's a real quality-of-life issue that affects how you show up in meetings, how confident you feel speaking up, how you're perceived professionally.\n\nLooking and feeling better changes the camera dynamic completely. I've watched it happen with my clients — and it starts in the first few weeks."
+    },
+    {
+      "id": "t14",
+      "theme": "PAIN POINTS",
+      "label": "Pain Points #4",
+      "slide1": "Keto lasted three weeks. IF lasted two. The app lasted one.\n\nEvery IT professional who's tried to lose weight has a list like this. A trail of diets that started strong and faded out when real life got in the way.",
+      "slide2": "The problem wasn't you. The problem was that every one of those approaches was designed for someone with a fundamentally different lifestyle than yours.\n\nKeto requires constant food tracking. IF collapses the first time you have an early meeting and a client dinner the same day. Calorie apps become another task in a day already full of cognitive load.",
+      "slide3": "A system that fails under normal IT-professional conditions isn't a system worth having.\n\nI help IT professionals build something that actually works around their schedule — not against it."
+    },
+    {
+      "id": "t15",
+      "theme": "PAIN POINTS",
+      "label": "Pain Points #5",
+      "slide1": "The worst part isn't the weight. It's how you feel every day.\n\nThe exhaustion that starts before lunch. The brain fog that makes the afternoon a write-off. The way you drag yourself through the last two hours of the day.",
+      "slide2": "Most IT professionals accept this as the cost of the job. Long hours, high stress, that's just how it is.\n\nBut that level of daily fatigue isn't inevitable. It's largely nutritional. And it's fixable.",
+      "slide3": "My clients consistently report that the energy shift comes first — usually within the first two weeks — before significant weight loss even begins. Better focus. Clearer thinking. Afternoons that don't feel like a death march.\n\nFor people whose output depends on cognitive performance, this alone is worth everything."
+    },
+    {
+      "id": "t16",
+      "theme": "PAIN POINTS",
+      "label": "Pain Points #6",
+      "slide1": "The clothes tell the truth before the scale does.\n\nFirst it's one pair of trousers that no longer fits. Then a shirt that pulls at the buttons. Then you're quietly buying a size up and telling yourself it's just the cut.",
+      "slide2": "This is how most IT professionals experience weight gain — gradually, in the wardrobe, before they're willing to call it a problem.\n\nBy the time someone reaches out to me, they've usually been in denial for 12 to 18 months. The trousers have been in the back of the closet for over a year.",
+      "slide3": "There's no judgment here. I wore the same trousers in the back of my closet for two years before I did something about it.\n\nThe system exists. It fits your life. You just have to decide you're ready to use it."
+    },
+    {
+      "id": "t17",
+      "theme": "PAIN POINTS",
+      "label": "Pain Points #7",
+      "slide1": "\"I used to be in shape\" is the most common thing IT professionals say to me.\n\nCollege athlete. Gym regular in their 20s. Someone who never had to think about weight.",
+      "slide2": "And then the career took off, the desk hours piled up, and somewhere between senior engineer and tech lead, the body changed.\n\nThe frustrating part is that nothing dramatic happened. No injury. No crisis. Just years of sitting, snacking, and prioritizing the job over everything else.",
+      "slide3": "The good news: your body remembers. The re-entry is easier than you think, especially with a system that doesn't demand you become a different person to make it work.\n\nYou don't have to reclaim the athlete you were at 22. You just have to feel good in the life you have now."
+    },
+    {
+      "id": "t18",
+      "theme": "PAIN POINTS",
+      "label": "Pain Points #8",
+      "slide1": "Family history is the thing that finally made me take it seriously.",
+      "slide2": "Dad had a heart attack at 54. Uncle has type 2 diabetes. The doctor keeps mentioning blood pressure.\n\nFor a lot of IT professionals, weight isn't really about aesthetics. It's about not wanting to repeat the pattern. About being around for your kids. About not becoming a statistic that you can see coming from a mile away.",
+      "slide3": "This is the most serious and most ignored pain point in the IT professional population. Smart people who can see the risk clearly but haven't yet built a system to address it.\n\nIf the family history conversation resonates, that's exactly who I built this for."
+    },
+    {
+      "id": "t19",
+      "theme": "PAIN POINTS",
+      "label": "Pain Points #9",
+      "slide1": "The paradox of the IT professional and their health:\n\nSmart enough to architect a system that handles a million concurrent users. Not sure how to handle their own body.",
+      "slide2": "This isn't ironic. It makes complete sense. Nobody taught you the system for human nutrition. The information out there is contradictory, context-free, and not designed for someone with your lifestyle.\n\nYou can't Google your way to sustainable weight loss any more than a non-engineer can Google their way to building production-grade infrastructure.",
+      "slide3": "You need the right system, designed for your constraints, implemented properly.\n\nThat's exactly what I do for IT professionals."
+    },
+    {
+      "id": "t20",
+      "theme": "PAIN POINTS",
+      "label": "Pain Points #10",
+      "slide1": "The worst time to try to fix your health is when you're most stressed.\n\nWhich means most IT professionals never find a good time to start.",
+      "slide2": "Deadline coming up. Project launch. Reorg. Hiring freeze. Performance review season. On-call rotation. There's always something.\n\nThe truth is, there will never be a quiet month. The job doesn't work that way. And a nutrition system that only functions when things are calm is useless for anyone in tech.",
+      "slide3": "The system I use with IT professionals is specifically designed to run in the background — low maintenance, high resilience, built to survive the chaos of a real tech career.\n\nYou don't need a calm month. You need to start."
+    },
+    {
+      "id": "t21",
+      "theme": "OBJECTIONS & FEARS",
+      "label": "Objections #1",
+      "slide1": "\"I don't have time.\"\n\nThis is the first thing almost every IT professional tells me. And they're right — they don't have time for the nutrition approach they're imagining.",
+      "slide2": "5am gym sessions. Two-hour meal preps. Eating every three hours. Tracking every macro.\n\nNone of that works for someone with back-to-back meetings, on-call responsibilities, and a life outside of work.\n\nBut that's not what I teach.",
+      "slide3": "The system I use with IT professionals requires less than 20 minutes of active nutrition planning per week. It's built around the reality that you have almost no time — not the fantasy that you have plenty.\n\nYou have time. You just don't have time for the wrong approach."
+    },
+    {
+      "id": "t22",
+      "theme": "OBJECTIONS & FEARS",
+      "label": "Objections #2",
+      "slide1": "\"I've failed at this before. Why would now be different?\"\n\nFair question. And the honest answer is: it won't be different if you do the same thing again.",
+      "slide2": "Most IT professionals have tried generic diets. Counted calories. Done Whole30. Tried intermittent fasting. None of it built around on-call weeks, sprint cycles, or the reality of six hours of meetings a day.\n\nThe difference isn't willpower. It's the system.",
+      "slide3": "A plan designed for someone else's lifestyle will always fail your lifestyle. That's not a character flaw — it's a design flaw.\n\nI built my coaching approach specifically for IT professionals because I spent 13 years being one. The system fits the life."
+    },
+    {
+      "id": "t23",
+      "theme": "OBJECTIONS & FEARS",
+      "label": "Objections #3",
+      "slide1": "\"Coaches don't understand my schedule.\"\n\nThis is the most valid objection I hear — because it's usually true.",
+      "slide2": "Most nutrition coaches design programs for people with flexible schedules, the ability to cook twice a day, and the time to go to the gym five times a week.\n\nThat describes almost no IT professional I've ever met.",
+      "slide3": "I spent 13 years in corporate IT before becoming a coach. I've been on-call. I've had sprint launches destroy my entire week. I've eaten vending machine dinners during production outages.\n\nWhen I say I understand your schedule, I mean it literally. And my programs are built around it."
+    },
+    {
+      "id": "t24",
+      "theme": "OBJECTIONS & FEARS",
+      "label": "Objections #4",
+      "slide1": "\"I don't want to give up eating the foods I enjoy.\"\n\nGood. You shouldn't have to.",
+      "slide2": "Restriction-based diets fail for IT professionals for the same reason they fail for everyone — they're unsustainable. And for people with already-high cognitive load, adding constant food restriction to the mental stack accelerates burnout.\n\nThe system I use isn't about what you can't eat. It's about building the right foundation so the foods you enjoy fit in naturally — without derailing progress.",
+      "slide3": "My clients still go to team lunches. Still have a beer on a Friday. Still eat like humans.\n\nThey just lose 20 lbs in 12 weeks at the same time."
+    },
+    {
+      "id": "t25",
+      "theme": "OBJECTIONS & FEARS",
+      "label": "Objections #5",
+      "slide1": "\"I need to figure out the free stuff first before I invest in coaching.\"\n\nUnderstood. And the free stuff is genuinely useful for building awareness.",
+      "slide2": "But here's what 13 years in IT taught me about systems: free resources give you information. A coach gives you implementation.\n\nYou could read every piece of documentation on Kubernetes and still not successfully deploy a production cluster without guidance. Information and implementation are different things.",
+      "slide3": "IT professionals lose more time and money cycling through diets that don't work than they would spend on a coaching program that does. The ROI math is straightforward.\n\nWhen you're ready to stop researching and start executing, I'm here."
+    },
+    {
+      "id": "t26",
+      "theme": "OBJECTIONS & FEARS",
+      "label": "Objections #6",
+      "slide1": "\"I'll start after this project wraps up.\"\n\nThe project will wrap up. And there will be another one.",
+      "slide2": "I've heard this from IT professionals who were \"just finishing a big launch\" — and six months later were still waiting for a quiet month that never came.\n\nThe nutrition system I use with IT professionals is specifically designed to run alongside your busiest seasons — not wait for the calm ones.",
+      "slide3": "You don't need a slow month to start. You need a system that works during the fast ones.\n\nThe only thing waiting costs is time."
+    },
+    {
+      "id": "t27",
+      "theme": "OBJECTIONS & FEARS",
+      "label": "Objections #7",
+      "slide1": "\"I can just use MyFitnessPal and figure it out myself.\"",
+      "slide2": "You can. And if that's worked for you, keep doing it.\n\nBut calorie tracking is one more decision-making task added to a day already full of cognitive demands. For most IT professionals, it works for two weeks and then silently disappears from the routine.",
+      "slide3": "The goal isn't more tracking. It's less thinking about food — having a system so reliable and simple that it runs in the background while your brain does the important work.\n\nThat's a fundamentally different approach than logging every meal."
+    },
+    {
+      "id": "t28",
+      "theme": "OBJECTIONS & FEARS",
+      "label": "Objections #8",
+      "slide1": "\"I'm worried I'll lose muscle, not fat.\"",
+      "slide2": "This is a smart concern — and one that most generic weight loss advice completely ignores.\n\nIT professionals who've been athletic before, or who care about more than just the number on the scale, need a program that protects lean mass while losing fat.",
+      "slide3": "The 20-lbs-in-12-weeks result I help IT professionals achieve is fat loss — built around protein targets that preserve muscle, and a structure that doesn't require hours of gym time to maintain.\n\nLosing weight and losing the wrong kind of weight are very different outcomes. The system accounts for this."
+    },
+    {
+      "id": "t29",
+      "theme": "OBJECTIONS & FEARS",
+      "label": "Objections #9",
+      "slide1": "\"Twelve weeks feels like a long time to commit to.\"",
+      "slide2": "Twelve weeks is one sprint cycle. Three months. Less time than most software projects take to ship.\n\nAnd the result on the other side — 20 lbs lighter, more energy, better health markers — is permanent infrastructure, not a temporary fix.",
+      "slide3": "IT professionals are used to committing three to six months to build something that lasts. This is the same investment, different domain.\n\nThe only difference is the outcome is for you, not for a stakeholder."
+    },
+    {
+      "id": "t30",
+      "theme": "OBJECTIONS & FEARS",
+      "label": "Objections #10",
+      "slide1": "\"My partner tried something similar and it didn't work.\"",
+      "slide2": "What your partner tried was probably not designed for an IT professional's lifestyle, stress levels, and schedule constraints.\n\nContext matters enormously in nutrition. A program that works for a teacher, a nurse, or a stay-at-home parent has completely different requirements than one that works for someone with on-call rotations, sprint cycles, and six hours of daily cognitive labor.",
+      "slide3": "Your specific life demands a specific solution. Generic programs produce generic — or no — results.\n\nThis was built for you specifically."
+    },
+    {
+      "id": "t31",
+      "theme": "MOTIVATION & IDENTITY",
+      "label": "Motivation #1",
+      "slide1": "You solve problems for a living that most people can't even understand.\n\nProduction outages at 2am. Architectural decisions that will affect thousands of users. Debugging issues that have stumped an entire team.",
+      "slide2": "You are exceptionally good at solving complex problems under pressure.\n\nYour health is a complex problem under pressure. And you haven't cracked it yet — not because you're not smart enough, but because nobody ever gave you the right system.",
+      "slide3": "The same brain that architects distributed systems can absolutely figure out sustainable fat loss. You just need the right framework, not more willpower.\n\nThat's what I provide for IT professionals."
+    },
+    {
+      "id": "t32",
+      "theme": "MOTIVATION & IDENTITY",
+      "label": "Motivation #2",
+      "slide1": "Systems over willpower. Always.",
+      "slide2": "You already know this from engineering. Reliable systems don't depend on someone being highly motivated every single day. They run whether or not you feel like it.\n\nThe reason most diets fail isn't lack of motivation. It's that they were built to require constant motivation — something no human can sustain indefinitely.",
+      "slide3": "A good nutrition system runs like good infrastructure. Stable, predictable, resilient to the bad days. Not dependent on you waking up inspired every morning.\n\nThis is how I approach nutrition with IT professionals. Build the system right, and the results follow automatically."
+    },
+    {
+      "id": "t33",
+      "theme": "MOTIVATION & IDENTITY",
+      "label": "Motivation #3",
+      "slide1": "At 42, one of my clients ran his first 5K.",
+      "slide2": "Not because running was the goal. Because losing 24 lbs in 12 weeks gave him energy he hadn't felt in a decade — and he wanted to do something with it.",
+      "slide3": "This is what sustainable fat loss actually unlocks. Not just a smaller number on the scale. A different experience of your own body. Energy that shows up before noon. Afternoons you don't have to survive. Kids you can actually keep up with.\n\nIT professionals spend their careers building things that give other people a better experience. This is about building a better experience of your own life."
+    },
+    {
+      "id": "t34",
+      "theme": "MOTIVATION & IDENTITY",
+      "label": "Motivation #4",
+      "slide1": "The version of you that's 20 lbs lighter isn't a different person.",
+      "slide2": "Same career. Same family. Same hobbies. Same sense of humor. Just more energy, better health markers, and clothes that fit the way they're supposed to.",
+      "slide3": "Most IT professionals I work with are surprised by how little has to change on the surface to get there. No personality transplant required. No becoming a gym obsessive. No giving up the things that make life worth living.\n\nThe system fits around your life. It doesn't replace it."
+    },
+    {
+      "id": "t35",
+      "theme": "MOTIVATION & IDENTITY",
+      "label": "Motivation #5",
+      "slide1": "What would you do with an extra two hours of energy every day?",
+      "slide2": "Not manufactured caffeine energy. Actual, clean, sustainable energy that shows up in the morning and doesn't crash by 2pm.\n\nMost of my IT clients report this as the first and biggest change — before significant weight loss even begins. The afternoon crash disappears. Focus sharpens. The last two hours of the workday stop feeling like a slog.",
+      "slide3": "For knowledge workers, cognitive energy is the primary currency. And right now, most IT professionals are operating at a significant deficit.\n\nThat's a fixable problem."
+    },
+    {
+      "id": "t36",
+      "theme": "MOTIVATION & IDENTITY",
+      "label": "Motivation #6",
+      "slide1": "The goal isn't to look like a fitness influencer.",
+      "slide2": "The goal is to feel like yourself again.\n\nTo not be winded walking up a flight of stairs. To not dread the camera in a video call. To not feel like your body is working against you every day.",
+      "slide3": "IT professionals don't need extreme transformations. They need to reclaim baseline — the energy, the confidence, the physical ease that desk work has slowly eroded over years.\n\nThat's an achievable goal. And it takes less than you think."
+    },
+    {
+      "id": "t37",
+      "theme": "MOTIVATION & IDENTITY",
+      "label": "Motivation #7",
+      "slide1": "Your kids notice when you're not keeping up.",
+      "slide2": "Not in a cruel way. In the small moments — when you're out of breath at the park, when you opt out of the thing they wanted to do together, when you're too exhausted after work to be fully present.\n\nMost IT professionals don't mention this until we've been working together a while. But it's usually the real reason they wanted to change.",
+      "slide3": "Not the scale. Not the doctor's visit. The look on their kid's face at the park.\n\nIf that resonates, I build programs for exactly this — not for aesthetics, for the life you want to have."
+    },
+    {
+      "id": "t38",
+      "theme": "MOTIVATION & IDENTITY",
+      "label": "Motivation #8",
+      "slide1": "The smartest people in the room are often the worst at asking for help.",
+      "slide2": "IT professionals are used to figuring things out independently. Googling the answer. Finding the documentation. Solving it themselves.\n\nThis works brilliantly for technical problems. It works less well for health — because the information is contradictory, context-dependent, and requires someone who understands your specific constraints to implement correctly.",
+      "slide3": "Asking for help with your nutrition isn't a failure. It's the same decision you'd make if you needed specialized expertise in any other domain.\n\nYou hire specialists for your infrastructure. This is the same logic applied to your body."
+    },
+    {
+      "id": "t39",
+      "theme": "MOTIVATION & IDENTITY",
+      "label": "Motivation #9",
+      "slide1": "Five years from now, you will either have started or you'll still be planning to.",
+      "slide2": "The technical skills you have today, you built by deciding to start — not by waiting until everything was perfectly set up.\n\nYour health works the same way. The best time to build the system was five years ago. The second best time is now.",
+      "slide3": "IT professionals are excellent at long-term planning. Apply that same clarity to this: if you keep doing what you're doing, where will you be in five years?\n\nAnd is that where you want to be?"
+    },
+    {
+      "id": "t40",
+      "theme": "MOTIVATION & IDENTITY",
+      "label": "Motivation #10",
+      "slide1": "You don't have to earn the right to feel good.\n\nSome IT professionals carry a quiet belief that health and fitness are for people with different jobs, different schedules, different priorities.",
+      "slide2": "That belief is wrong. And expensive.\n\nThe same discipline that makes you exceptional at your job is more than enough to build the healthiest version of yourself — with the right system in place.",
+      "slide3": "You've already proven you can commit to hard things over a long period. You do it every day at work.\n\nThis is just the same skill, different domain."
+    },
+    {
+      "id": "t41",
+      "theme": "EDUCATIONAL TIPS",
+      "label": "Educational #1",
+      "slide1": "Protein is the most important nutrient for IT professionals. Here's why.",
+      "slide2": "When you're doing high-intensity cognitive work all day, your brain runs on glucose — and your body will pull it from wherever it can, including muscle tissue if protein intake is too low.\n\nAdequate protein preserves muscle while losing fat, keeps you fuller for longer (reducing the evening overeating cycle), and has the highest thermic effect of any macronutrient — meaning you burn more calories just digesting it.",
+      "slide3": "For a desk worker trying to lose weight, hitting a daily protein target is the single highest-leverage nutritional habit you can build.\n\nYou don't need to track everything. Just track protein."
+    },
+    {
+      "id": "t42",
+      "theme": "EDUCATIONAL TIPS",
+      "label": "Educational #2",
+      "slide1": "Why IT professionals gain weight even when they \"don't eat that much.\"",
+      "slide2": "Sedentary work dramatically lowers your total daily energy expenditure. A highly active person might burn 2,800 calories a day. A sedentary desk worker with the same body might burn 1,900.",
+      "slide3": "The gap isn't the food. It's the movement. And most IT professionals don't account for how little energy their body is actually using during a desk-work day.\n\nThe solution isn't to eat like you're running marathons. It's to calibrate your nutrition to your actual activity level — which is different for every person depending on their schedule and lifestyle."
+    },
+    {
+      "id": "t43",
+      "theme": "EDUCATIONAL TIPS",
+      "label": "Educational #3",
+      "slide1": "The 3pm energy crash is almost always a lunch problem.",
+      "slide2": "High-carbohydrate lunches — sandwiches, pasta, rice bowls, most fast food — cause a blood sugar spike followed by a crash about two to three hours later.\n\nFor IT professionals, that crash lands right at 2-3pm, during the part of the afternoon that requires the most focused cognitive work.",
+      "slide3": "The fix is simple: shift lunch toward higher protein and fat, lower refined carbs. The blood sugar curve flattens, the crash disappears, and you get three more productive hours back every single day.\n\nOne meal change. Significant daily impact."
+    },
+    {
+      "id": "t44",
+      "theme": "EDUCATIONAL TIPS",
+      "label": "Educational #4",
+      "slide1": "Sleep is a nutrition issue. Here's what that means for IT professionals.",
+      "slide2": "Poor sleep raises ghrelin (the hunger hormone) and lowers leptin (the fullness hormone). After a bad night — which is common during on-call rotations — you're physiologically hungrier and less able to feel full.\n\nThis means the day after an on-call callout, you will overeat. Not because of poor willpower, but because your hormones are pushing you toward it.",
+      "slide3": "Knowing this lets you plan around it. You can't always fix the sleep, but you can build a nutrition structure that accounts for the hormonal fallout.\n\nInformation is leverage."
+    },
+    {
+      "id": "t45",
+      "theme": "EDUCATIONAL TIPS",
+      "label": "Educational #5",
+      "slide1": "Walking after meals is one of the highest-ROI health habits for desk workers.",
+      "slide2": "Ten minutes of walking after eating improves insulin sensitivity, blunts the post-meal blood sugar spike, and aids digestion. For IT professionals who can't always get to the gym, it's the most accessible form of movement available.\n\nYou don't need a gym. You don't need equipment. You need ten minutes and a pair of shoes you're already wearing.",
+      "slide3": "If you do nothing else differently today, take a ten-minute walk after lunch. The cumulative effect over weeks is significant.\n\nSmall habit. Real impact."
+    },
+    {
+      "id": "t46",
+      "theme": "EDUCATIONAL TIPS",
+      "label": "Educational #6",
+      "slide1": "Hydration affects cognitive performance more than most IT professionals realize.",
+      "slide2": "Even mild dehydration — as little as 1-2% of body weight — measurably reduces focus, working memory, and processing speed. For someone whose job is cognitive performance, this is a serious productivity issue.\n\nMost IT professionals drink coffee all day and very little water. Coffee is a mild diuretic, so this actually increases the dehydration problem.",
+      "slide3": "The fix is simple: one glass of water before each coffee. One glass before each meal. Non-negotiable.\n\nBetter hydration means better cognition. It's that direct."
+    },
+    {
+      "id": "t47",
+      "theme": "EDUCATIONAL TIPS",
+      "label": "Educational #7",
+      "slide1": "The scale is the worst way to measure progress. Here's what to use instead.",
+      "slide2": "Weight fluctuates by 2-4 lbs daily based on water retention, sodium, sleep, hormones, and stress — all of which are elevated for IT professionals. Weighing yourself daily and reacting to the number is a recipe for anxiety and abandoning a working program.",
+      "slide3": "Better metrics: how your clothes fit, energy levels throughout the day, sleep quality, how you feel on camera, performance at the gym if you're training.\n\nThe scale is one data point among many. Treat it like one metric in a dashboard, not the only metric that matters."
+    },
+    {
+      "id": "t48",
+      "theme": "EDUCATIONAL TIPS",
+      "label": "Educational #8",
+      "slide1": "Eating at your desk is making you eat more. Here's the science.",
+      "slide2": "Eating while distracted — which includes eating while working, on calls, or reading Slack — reduces the brain's ability to register fullness. You consume more calories before the satiety signal arrives.\n\nThis is called distracted eating, and it's near-universal among IT professionals.",
+      "slide3": "The fix isn't complicated: eat away from your screen, even for ten minutes. The difference in calorie intake over a week is measurable.\n\nThe smallest habit changes are often the ones with the most leverage."
+    },
+    {
+      "id": "t49",
+      "theme": "EDUCATIONAL TIPS",
+      "label": "Educational #9",
+      "slide1": "Stress eating is a biological response, not a character flaw.",
+      "slide2": "Cortisol — the primary stress hormone that spikes during high-pressure work — directly increases cravings for high-calorie, high-sugar foods. It's an evolutionary survival mechanism that's completely mismatched to modern desk work.",
+      "slide3": "When you reach for chips during a stressful deployment, that's not weakness. That's cortisol doing exactly what it evolved to do.\n\nUnderstanding this is the first step to working around it. The second step is having a nutrition system that accounts for it — because restricting willpower against a hormonal response is a losing battle."
+    },
+    {
+      "id": "t50",
+      "theme": "EDUCATIONAL TIPS",
+      "label": "Educational #10",
+      "slide1": "You don't need to go to the gym five times a week to lose 20 lbs.",
+      "slide2": "For the average IT professional, nutrition accounts for roughly 80% of weight loss results. Exercise is important for health, muscle retention, and energy — but the scale moves primarily through what you eat, not how much you work out.\n\nThis matters because most IT professionals decide they can't lose weight because they can't commit to a heavy exercise schedule.",
+      "slide3": "You don't need one. You need a nutrition system that works around your actual availability — even if that means no gym at all for the first few weeks.\n\nStart with food. Add movement as capacity allows."
+    },
+    {
+      "id": "t51",
+      "theme": "SOCIAL PROOF & RESULTS",
+      "label": "Social Proof #1",
+      "slide1": "\"I lost 22 lbs and I didn't change my work schedule at all.\"\n\nThat's a direct quote from a software engineer I worked with last year. Senior developer, fully remote, two kids, on-call every third week.",
+      "slide2": "He'd tried calorie counting twice and intermittent fasting once. None of it stuck past a month.\n\nWhat changed wasn't his schedule or his discipline. It was having a system designed for his actual life — not someone else's.",
+      "slide3": "12 weeks later, 22 lbs gone. Still in the same job. Still doing on-call. Just 22 lbs lighter with energy he hadn't felt in years.\n\nThis is repeatable. And it's available to you."
+    },
+    {
+      "id": "t52",
+      "theme": "SOCIAL PROOF & RESULTS",
+      "label": "Social Proof #2",
+      "slide1": "A DevOps engineer. 38 years old. 17 lbs in 10 weeks.\n\nHe told me the first thing he noticed wasn't the weight — it was that the 3pm wall just stopped showing up.",
+      "slide2": "Week three of the program, he realized he'd made it to 5pm without reaching for coffee or feeling like he was running on fumes.\n\nBy week six, his wife had noticed. By week ten, he'd lost 17 lbs and bought new jeans for the first time in four years.",
+      "slide3": "None of this required a gym membership or giving up the Friday team lunch.\n\nIt required the right system."
+    },
+    {
+      "id": "t53",
+      "theme": "SOCIAL PROOF & RESULTS",
+      "label": "Social Proof #3",
+      "slide1": "The most common thing my clients say at the end of 12 weeks:",
+      "slide2": "\"I wish I'd done this two years ago.\"",
+      "slide3": "Not because they're trying to flatter me. Because they spent two years cycling through diets that weren't designed for them before finding something that actually works.\n\nTwo years is a long time to spend on the wrong system. 12 weeks is how long it takes on the right one."
+    },
+    {
+      "id": "t54",
+      "theme": "SOCIAL PROOF & RESULTS",
+      "label": "Social Proof #4",
+      "slide1": "IT manager. 41. Had avoided the camera in meetings for two years.",
+      "slide2": "By week eight of our program together, he had his camera on for every call without thinking about it.",
+      "slide3": "He lost 19 lbs. But the camera confidence was the thing he mentioned first. The thing that changed how he showed up professionally. The thing his team noticed.\n\nWeight loss has professional consequences that most people don't anticipate until they experience them."
+    },
+    {
+      "id": "t55",
+      "theme": "SOCIAL PROOF & RESULTS",
+      "label": "Social Proof #5",
+      "slide1": "From a client last month:",
+      "slide2": "\"I've been in tech for 15 years. I've been trying to lose weight for five. Three months with a system actually built for my life, and I've lost more than I did in all five years combined.\"",
+      "slide3": "This is the consistent pattern. Not because this program is magic — but because a system designed for your specific life is fundamentally different from one designed for someone else's."
+    },
+    {
+      "id": "t56",
+      "theme": "SOCIAL PROOF & RESULTS",
+      "label": "Social Proof #6",
+      "slide1": "Before our program started, he described his eating as \"fine.\"",
+      "slide2": "Lunch at the desk, dinner with the family, a few too many snacks in the afternoon. Nothing dramatic. Nothing he felt he could easily change.",
+      "slide3": "14 weeks later, he's 23 lbs lighter, his blood pressure is back in normal range, and his doctor told him at the annual checkup that \"whatever you're doing, keep doing it.\"\n\n\"Fine\" wasn't fine. And the fix didn't require overhauling his life."
+    },
+    {
+      "id": "t57",
+      "theme": "SOCIAL PROOF & RESULTS",
+      "label": "Social Proof #7",
+      "slide1": "The question I get asked most by new clients after they hit their goal:",
+      "slide2": "\"Why didn't I do this sooner?\"",
+      "slide3": "Because the previous options weren't built for you. Because you were trying systems designed for people with different lives, different schedules, different constraints.\n\nThe right system at the right time changes everything. And the right time is always sooner than you think."
+    },
+    {
+      "id": "t58",
+      "theme": "SOCIAL PROOF & RESULTS",
+      "label": "Social Proof #8",
+      "slide1": "He came to me skeptical. 13 years in IT, engineer's brain, wanted to know the mechanism before he committed to anything.",
+      "slide2": "So I showed him the data. The research behind the approach. The specific adaptations made for high-stress desk workers.\n\nHe enrolled. 12 weeks later, 21 lbs lighter.",
+      "slide3": "His words: \"It's the first time I've tried something that felt like it was actually engineered for me.\"\n\nThat's exactly what it is."
+    },
+    {
+      "id": "t59",
+      "theme": "SOCIAL PROOF & RESULTS",
+      "label": "Social Proof #9",
+      "slide1": "His wife noticed before he did.",
+      "slide2": "Week five, she asked if he'd done something different. He said he wasn't sure yet. Week eight, he stepped on the scale: 16 lbs gone.",
+      "slide3": "The physical changes had been gradual enough that he'd barely tracked them. But the energy, the mood, the way he showed up at home after work — those his wife had been watching for weeks.\n\nFat loss changes more than your body. It changes how you show up everywhere."
+    },
+    {
+      "id": "t60",
+      "theme": "SOCIAL PROOF & RESULTS",
+      "label": "Social Proof #10",
+      "slide1": "Twenty pounds in twelve weeks sounds like a marketing headline.",
+      "slide2": "It's also what consistently happens when an IT professional finally gets a nutrition system designed for their actual life.\n\nNot starvation. Not extreme exercise. Not a personality change.",
+      "slide3": "A system. Built for the calendar, the energy levels, the stress, the schedule of someone who works in tech.\n\nThe results speak for themselves at the link below."
+    },
+    {
+      "id": "t61",
+      "theme": "COACH'S STORY",
+      "label": "Coach's Story #1",
+      "slide1": "13 years in corporate IT. Senior engineer. Then IT manager. Then a photo at a team event that I didn't recognize myself in.",
+      "slide2": "That was the moment.\n\nNot a dramatic health crisis. Not a doctor's ultimatum. Just a photo where the person staring back at me looked exhausted, heavier than I'd realized, and like someone who'd been putting themselves last for a decade.",
+      "slide3": "I'd been so focused on building systems for work that I'd never built one for myself.\n\nThat decision — to actually take my own health seriously — led me to become a nutrition coach specifically for IT professionals. Because I knew nobody else was building this for us."
+    },
+    {
+      "id": "t62",
+      "theme": "COACH'S STORY",
+      "label": "Coach's Story #2",
+      "slide1": "Every diet I tried during my corporate IT years failed for the same reason.",
+      "slide2": "They didn't know what a sprint was. They didn't account for on-call weeks. They assumed I had two free hours a day and the mental bandwidth to track every meal.\n\nI didn't. Nobody in tech does.",
+      "slide3": "So when I became a nutrition coach, the first thing I did was throw out the standard playbook and rebuild from scratch around the reality of a tech career.\n\nThe result is a system that actually works for IT professionals — because it was built by one."
+    },
+    {
+      "id": "t63",
+      "theme": "COACH'S STORY",
+      "label": "Coach's Story #3",
+      "slide1": "The first client I ever coached was a former colleague from my IT days.",
+      "slide2": "He'd been struggling with his weight for three years. Tried everything the internet recommended. Nothing stuck.\n\nI walked him through the system I'd built for myself — the one designed around desk work, cognitive fatigue, and a packed calendar.",
+      "slide3": "In 11 weeks, he lost 18 lbs.\n\nThat was the proof of concept I needed. The approach worked for someone else, not just me. I left my corporate IT role 18 months later to do this full time."
+    },
+    {
+      "id": "t64",
+      "theme": "COACH'S STORY",
+      "label": "Coach's Story #4",
+      "slide1": "People ask me why I left a well-paying corporate IT career to become a nutrition coach.",
+      "slide2": "The honest answer: because I couldn't find a coach who understood my old life.",
+      "slide3": "Every program I looked at was designed for someone with a fundamentally different schedule than mine. Every coach I spoke to had never managed a production incident, never been on-call, never had a calendar that looked like mine.\n\nI built the thing that didn't exist. And then I discovered hundreds of IT professionals who'd been waiting for exactly this."
+    },
+    {
+      "id": "t65",
+      "theme": "COACH'S STORY",
+      "label": "Coach's Story #5",
+      "slide1": "My approach to nutrition is borrowed directly from software engineering principles.",
+      "slide2": "Build a reliable system. Remove dependencies on human motivation. Design for failure states — on-call weeks, travel, high-stress deadlines. Monitor the right metrics. Iterate based on data.",
+      "slide3": "This is how good infrastructure is built. It's also how sustainable fat loss works.\n\nThe mental model was already there from 13 years in tech. I just applied it to a different domain."
+    },
+    {
+      "id": "t66",
+      "theme": "COACH'S STORY",
+      "label": "Coach's Story #6",
+      "slide1": "The thing nobody tells you about losing weight as an IT professional is how much better you think.",
+      "slide2": "I expected to lose the weight. I did not expect the jump in cognitive clarity that came with it.\n\nBetter sleep. More stable energy. Sharper focus in the afternoon. The ability to do deep work in the hours I'd previously written off as mentally dead.",
+      "slide3": "For knowledge workers, this is the underrated return on investment of getting your nutrition right. Not just the physical change — the cognitive upgrade.\n\nI built my coaching practice around this insight."
+    },
+    {
+      "id": "t67",
+      "theme": "COACH'S STORY",
+      "label": "Coach's Story #7",
+      "slide1": "I used to tell myself I'd deal with my health \"when things calmed down at work.\"",
+      "slide2": "Thirteen years passed.\n\nThings didn't calm down. Projects finished and new ones started. Deadlines passed and new ones appeared. The calendar never had a quiet month.",
+      "slide3": "When I finally stopped waiting for the right time and built a system that worked within the chaos, everything changed.\n\nThat's the core belief behind my coaching: there is no right time. There's only a right system."
+    },
+    {
+      "id": "t68",
+      "theme": "COACH'S STORY",
+      "label": "Coach's Story #8",
+      "slide1": "At my heaviest, I was 34 lbs over where I wanted to be. Full-time IT role, long hours, desk-bound, running on coffee and convenience food.",
+      "slide2": "The path from there to here wasn't a dramatic overhaul. It was a series of small system changes that compounded over time.",
+      "slide3": "First the energy improved. Then the weight started moving. Then the confidence came back. Then I started telling people what I'd done, and realized I had a method worth teaching.\n\nEvery IT professional I work with takes a slightly different path. But the destination is the same."
+    },
+    {
+      "id": "t69",
+      "theme": "COACH'S STORY",
+      "label": "Coach's Story #9",
+      "slide1": "People sometimes ask if I miss corporate IT.",
+      "slide2": "Honestly? I miss the people. The problem-solving. The satisfaction of shipping something that works.",
+      "slide3": "I get all three of that in this work — just applied to a different problem. And the solutions last longer.\n\nA software system can be deprecated. A person who's learned to sustain their own health carries that for life."
+    },
+    {
+      "id": "t70",
+      "theme": "COACH'S STORY",
+      "label": "Coach's Story #10",
+      "slide1": "I'm not a fitness influencer. I'm not selling a lifestyle.",
+      "slide2": "I'm a former IT professional who spent 13 years in the same meetings, the same on-call rotations, the same desk-lunch existence as you — and figured out how to lose 20 lbs without pretending that life looked different than it does.",
+      "slide3": "If you want inspiration content, there are better accounts to follow.\n\nIf you want a system that actually works for your career, your schedule, and your life — that's exactly what I build."
+    }
+  ]
+}

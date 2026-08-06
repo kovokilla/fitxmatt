@@ -1,0 +1,367 @@
+{
+  "brand": {
+    "handle": "@fitxmattt",
+    "site": "https://kovokilla.github.io/fitxmatt/",
+    "cta_word": "SYSTEM",
+    "cta_link": "https://lnkd.in/eu5djaTU"
+  },
+  "rotation_note": "Combined spectrum: 8 TA-pain carousels + 4 content-format carousels. Single pool, pointer wraps at total count. Suggested interleave: pain / pain / format / pain / format so the feed mixes value + reach.",
+  "carousels": [
+    {
+      "id": "posture",
+      "pain_refs": [
+        1,
+        19,
+        20
+      ],
+      "slide1": {
+        "headline": "Your desk job is quietly reshaping your body.",
+        "sub": "Sitting 8-12h, tight neck, clothes that don't fit? This is for you. 👇"
+      },
+      "slide2": [
+        {
+          "n": "1",
+          "t": "Sitting is a position, not a sentence.",
+          "b": "8-12h/day rewires hips + metabolism. The drift is reversible."
+        },
+        {
+          "n": "2",
+          "t": "Tight neck isn't aging.",
+          "b": "It's a desk-default. 2-min resets beat a 90-min routine you'll skip."
+        },
+        {
+          "n": "3",
+          "t": "You architect systems at work.",
+          "b": "Apply it to your body — small daily defaults, not a gym marathon."
+        }
+      ],
+      "slide3_bio": "I spent 13 yrs in corporate IT with the same tight neck and dead hips. I help IT pros undo desk-drift — lose ~20 lbs and move like yourself again, with rules, not willpower."
+    },
+    {
+      "id": "night-eating",
+      "pain_refs": [
+        4,
+        5,
+        16
+      ],
+      "slide1": {
+        "headline": "Late-night coding = late-night snacking.",
+        "sub": "You snack when you code. Deadlines kill the diet. Sound familiar? 👇"
+      },
+      "slide2": [
+        {
+          "n": "1",
+          "t": "The snack isn't hunger.",
+          "b": "It's the 11pm chair + screen loop. Break the trigger, not your willpower."
+        },
+        {
+          "n": "2",
+          "t": "Stress eating is a fallback.",
+          "b": "When work spikes, the diet goes out the window. One simple rule holds it."
+        },
+        {
+          "n": "3",
+          "t": "Weekends don't erase the week.",
+          "b": "Good all week, wrecked by Saturday? Damage-control beats a full restart."
+        }
+      ],
+      "slide3_bio": "I spent 13 yrs in corporate IT pulling late-night coding sessions and eating the fridge. I help IT pros kill the snack-loop and lose ~20 lbs — with rules, not willpower."
+    },
+    {
+      "id": "ranking",
+      "pain_refs": [
+        "ranking"
+      ],
+      "content_type": "ranking",
+      "slide1": {
+        "headline": "Top 5 reasons IT pros can't lose weight.",
+        "sub": "Number 1 will surprise you — stay until the end. 👇"
+      },
+      "slide2": [
+        {
+          "n": "5",
+          "t": "You optimize for the chair, not the body.",
+          "b": "8-12h/day seated rewires posture + metabolism. That's not age — that's the setup."
+        },
+        {
+          "n": "3",
+          "t": "Generic advice dies on-call week.",
+          "b": "'Wake at 5am, meal-prep 3 hrs' doesn't survive a 2am page."
+        },
+        {
+          "n": "1",
+          "t": "You're treating willpower like a plan.",
+          "b": "You debug systems for a living. Your body needs a system too — otherwise you reset every Monday."
+        }
+      ],
+      "slide3_bio": "I spent 13 yrs in corporate IT with the same Desk20 problem. The fix isn't another challenge — it's a system. Comment RANK and I'll send the full ranking."
+    },
+    {
+      "id": "no-time",
+      "pain_refs": [
+        2,
+        7,
+        30
+      ],
+      "slide1": {
+        "headline": "You don't need more time. You need a system.",
+        "sub": "No 90-min gym, no 3hr meal-prep. Built for an IT schedule. 👇"
+      },
+      "slide2": [
+        {
+          "n": "1",
+          "t": "Your brain is fried after work.",
+          "b": "Low-decision workouts + energy-first nutrition beat a 6am plan you'll snooze."
+        },
+        {
+          "n": "2",
+          "t": "Generic plans assume 2 free hours.",
+          "b": "They don't exist. 30-40 min, 3-4x/week is the real dose."
+        },
+        {
+          "n": "3",
+          "t": "You want this handled.",
+          "b": "Minimal mental load: a system that runs so you can focus on work."
+        }
+      ],
+      "slide3_bio": "I spent 13 yrs in corporate IT with zero time for 90-min routines. I help IT pros lose ~20 lbs in 3 months — with rules, not willpower."
+    },
+    {
+      "id": "client-result",
+      "pain_refs": [
+        "client-result"
+      ],
+      "content_type": "client-result",
+      "slide1": {
+        "headline": "Real result, not a transformation challenge.",
+        "sub": "This is what a 3-month reset actually looks like — no challenge wrap, no 'before/after' pressure. 👇"
+      },
+      "slide2": [
+        {
+          "n": "1",
+          "t": "Before: 120 kg.",
+          "b": "Ate lunch at the desk, coffee at 7am, energy drink at 2pm, 'whatever is fastest' after a 10-hr day."
+        },
+        {
+          "n": "2",
+          "t": "The change: rules, not motivation.",
+          "b": "Default meals, stand-breaks, an on-call-aware framework. No 5am gym, no fake hacks."
+        },
+        {
+          "n": "3",
+          "t": "Result: −17 kg, −8 cm chest, −12 cm waist, −11 cm hips, −8% body fat.",
+          "b": "Done without quitting the job or the late shifts. Client of 13 yrs in IT — proof it's not willpower."
+        }
+      ],
+      "slide3_bio": "This isn't a transformation challenge. It's a 3-month system: framework + coach check-ins, built for the calendar you actually have. Comment RESULT and I'll DM how it works."
+    },
+    {
+      "id": "plateau",
+      "pain_refs": [
+        18,
+        28,
+        29
+      ],
+      "slide1": {
+        "headline": "The scale won't move. That's a signal, not a sentence.",
+        "sub": "Plateaued? Need to see results or you lose motivation? 👇"
+      },
+      "slide2": [
+        {
+          "n": "1",
+          "t": "Calories drift as you lose weight.",
+          "b": "Same food, new lighter body = slower loss. Small re-adjust, not a restart."
+        },
+        {
+          "n": "2",
+          "t": "NEAT is the hidden lever.",
+          "b": "Steps, stands, fidgets — the stuff that isn't 'exercise' adds up."
+        },
+        {
+          "n": "3",
+          "t": "Early wins keep you in.",
+          "b": "First 2-3 weeks show something. Engineer the quick win so you stay."
+        }
+      ],
+      "slide3_bio": "I spent 13 yrs in corporate IT watching my own progress stall. I help IT pros break plateaus and lose ~20 lbs in 3 months — with rules, not willpower."
+    },
+    {
+      "id": "personal-story",
+      "pain_refs": [
+        "personal-story"
+      ],
+      "content_type": "personal-story",
+      "slide1": {
+        "headline": "13 years in IT, same desk, same weight gain.",
+        "sub": "If you're reading this on a work laptop, this is probably you too. 👇"
+      },
+      "slide2": [
+        {
+          "n": "1",
+          "t": "I lived the exact calendar you have now.",
+          "b": "Sprint retros, on-call pages, back-to-back meetings. Every day for more than a decade."
+        },
+        {
+          "n": "2",
+          "t": "I ate lunch at my desk every single day.",
+          "b": "Coffee at 7am, energy drink at 2pm, whatever was fastest for dinner. Zero movement."
+        },
+        {
+          "n": "3",
+          "t": "This isn't a 'I was lazy' story.",
+          "b": "It's a system failure. And when I finally fixed the system, the result wasn't even close."
+        }
+      ],
+      "slide3_bio": "From 13 yrs in IT to nutrition coach. I help busy IT pros lose ~20 lbs in 3 months with a system built around real work weeks. Comment STORY and I'll DM my framework."
+    },
+    {
+      "id": "decision-fatigue",
+      "pain_refs": [
+        8,
+        25,
+        26
+      ],
+      "slide1": {
+        "headline": "Stop overthinking dinner.",
+        "sub": "Every source says something different. All-or-nothing after one slip? 👇"
+      },
+      "slide2": [
+        {
+          "n": "1",
+          "t": "Dinner isn't a research project.",
+          "b": "12 protocols read, zero started. One default meal beats a perfect plan you never begin."
+        },
+        {
+          "n": "2",
+          "t": "One slip isn't a reset.",
+          "b": "Ate off-plan tonight? You don't restart Monday. You keep going — that's the system."
+        },
+        {
+          "n": "3",
+          "t": "Rules beat 9pm willpower.",
+          "b": "After a full day of decisions, you're spent. Pre-set dinner rules mean no thinking."
+        }
+      ],
+      "slide3_bio": "I spent 13 yrs in corporate IT making 200 decisions before dinner — then having none left. I help IT pros lose ~20 lbs in 3 months — with rules, not willpower."
+    },
+    {
+      "id": "whiteboard-breakdown",
+      "pain_refs": [
+        "whiteboard-breakdown"
+      ],
+      "content_type": "whiteboard-breakdown",
+      "slide1": {
+        "headline": "Whiteboard: why your plan keeps failing.",
+        "sub": "Let's map it. Open your phone camera — this one is worth the read. 👇"
+      },
+      "slide2": [
+        {
+          "n": "1",
+          "t": "Box 1: broken defaults.",
+          "b": "You don't choose breakfast at 7am fasting, or the energy drink at 2pm. The environment draws it."
+        },
+        {
+          "n": "2",
+          "t": "Box 2: wrong metric.",
+          "b": "If you only track weight, you miss the drift: NEAT down, calories up, deficit gone."
+        },
+        {
+          "n": "3",
+          "t": "Box 3: the fix.",
+          "b": "Build a default-day framework (not a challenge) + a weekly re-adjust loop. That's it."
+        }
+      ],
+      "slide3_bio": "Engineers + whiteboards = better systems. This one is your nutrition OS. Comment WHITEBOARD and I'll send the diagram as a framework you can actually run."
+    },
+    {
+      "id": "energy",
+      "pain_refs": [
+        12,
+        13,
+        22
+      ],
+      "slide1": {
+        "headline": "Tired even after sleep? It's the food.",
+        "sub": "Brain fog, low energy, feeling older than you are? 👇"
+      },
+      "slide2": [
+        {
+          "n": "1",
+          "t": "Blood sugar crashes = afternoon zombies.",
+          "b": "Protein + smart carbs at each meal keeps you sharp past 3pm."
+        },
+        {
+          "n": "2",
+          "t": "Sluggish isn't age.",
+          "b": "Micronutrients + hydration move clarity more than another coffee."
+        },
+        {
+          "n": "3",
+          "t": "You can feel capable again.",
+          "b": "Strength + metabolic reset. The 'older than I am' feeling lifts."
+        }
+      ],
+      "slide3_bio": "I spent 13 yrs in corporate IT running on coffee and crashing at 3pm. I help IT pros get energy back and lose ~20 lbs in 3 months — with rules, not willpower."
+    },
+    {
+      "id": "remote-gain",
+      "pain_refs": [
+        3,
+        14,
+        15
+      ],
+      "slide1": {
+        "headline": "Remote work added 20 lbs. Let's subtract it.",
+        "sub": "Wrecked by WFH? Don't want to eat like a monk? 👇"
+      },
+      "slide2": [
+        {
+          "n": "1",
+          "t": "Home = more fridge, less movement.",
+          "b": "Reverse it with structure + calorie control that fits the home day."
+        },
+        {
+          "n": "2",
+          "t": "Keep your favorite foods.",
+          "b": "80-20 flexible dieting. You don't have to eat like a monk."
+        },
+        {
+          "n": "3",
+          "t": "Travel & events don't end it.",
+          "b": "Portable rules + a travel playbook. Progress survives trips."
+        }
+      ],
+      "slide3_bio": "I spent 13 yrs in corporate IT — the last ones remote, gaining the WFH 20. I help IT pros subtract it and lose ~20 lbs — with rules, not willpower."
+    },
+    {
+      "id": "health-warning",
+      "pain_refs": [
+        23,
+        21,
+        27
+      ],
+      "slide1": {
+        "headline": "The doctor said lose weight. Here's the plan.",
+        "sub": "Labs off? Low confidence? Fear of injury? 👇"
+      },
+      "slide2": [
+        {
+          "n": "1",
+          "t": "Health markers move with fat loss.",
+          "b": "Sustainable loss + lifestyle change — the doctor's note, made doable."
+        },
+        {
+          "n": "2",
+          "t": "Confidence comes from visible wins.",
+          "b": "Milestones you can see. Feel like yourself again, not 'the sick one.'"
+        },
+        {
+          "n": "3",
+          "t": "Safe, joint-friendly training.",
+          "b": "Low-risk strength. You don't have to get hurt to get results."
+        }
+      ],
+      "slide3_bio": "I spent 13 yrs in corporate IT ignoring the doctor until labs went off. I help IT pros lose ~20 lbs in 3 months — safely, with rules, not willpower."
+    }
+  ]
+}

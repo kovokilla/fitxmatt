@@ -1,3 +1,10 @@
 .venv/
 __pycache__/
 *.pyc
+# runtime pointers / state
+.ig_pointer
+.ig_text_pointer
+.li_pointer
+.li_streak
+# stray ad-hoc verify scripts
+hermes-verify-*.py
