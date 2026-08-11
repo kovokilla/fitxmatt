@@ -61,7 +61,8 @@ bash /Users/matus/.hermes/tools/send_email_rest.sh "FitXMatt IG Carousel #$N" /t
 SITE_BASE="${IG_SITE_BASE:-https://raw.githubusercontent.com/kovokilla/fitxmatt/main}"
 SITE_REPO="${IG_SITE_REPO:-https://github.com/kovokilla/fitxmatt.git}"
 SITE_CACHE="${IG_SITE_CACHE:-/tmp/ig_site_fitxmatt}"
-if [ ! -d "$SITE_CACHE/.git" ]; then
+# Clone fresh if missing OR if the existing clone is broken (e.g. missing HEAD)
+if [ ! -d "$SITE_CACHE/.git" ] || ! git -C "$SITE_CACHE" rev-parse --is-inside-work-tree >/dev/null 2>&1; then
   rm -rf "$SITE_CACHE"
   git clone --depth 1 "$SITE_REPO" "$SITE_CACHE" >/dev/null 2>&1 || fail "SITE_CLONE_FAIL"
 fi
