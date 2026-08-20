@@ -39,7 +39,7 @@ import sys,json
 d=json.load(open(sys.argv[1])); c=d["carousels"][int(sys.argv[2])%len(d["carousels"])]
 cta=d.get("brand",{}).get("cta_word","SYSTEM")
 body="\n\n".join(c[k] for k in ("slide1","slide2","slide3")).strip()
-print(body + f"\n\nComment {cta} and I'll send you my free framework.\n\nCheck client results here: https://kovokilla.github.io/fitxmatt/")
+print(body + f"\n\nComment {cta} and I'll send you my free framework.\n\nCheck client results here: https://fitxmatt.com/")
 PY
 )
 
