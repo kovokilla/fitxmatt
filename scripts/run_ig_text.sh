@@ -66,7 +66,6 @@ if [ ! -d "$SITE_CACHE/.git" ] || ! git -C "$SITE_CACHE" rev-parse --is-inside-w
   rm -rf "$SITE_CACHE"
   git clone --depth 1 "$SITE_REPO" "$SITE_CACHE" >/dev/null 2>&1 || fail "SITE_CLONE_FAIL"
 fi
-git -C "$SITE_CACHE" pull --ff-only >/dev/null 2>&1 || true
 mkdir -p "$SITE_CACHE/assets/ig"
 declare -a URLS=()
 for s in 1 2 3; do
@@ -74,9 +73,25 @@ for s in 1 2 3; do
   git -C "$SITE_CACHE" add "assets/ig/text_${IDX}_$s.png" 2>/dev/null
   URLS+=("$SITE_BASE/assets/ig/text_${IDX}_$s.png")
 done
-if git -C "$SITE_CACHE" diff --cached --quiet; then :; else
-  git -C "$SITE_CACHE" -c user.name="FitXMatt Bot" -c user.email="kovokilla@gmail.com" commit -m "ig text carousel #$N" >/dev/null 2>&1
-  git -C "$SITE_CACHE" push >/dev/null 2>&1 || fail "site push failed"
+commit_and_push() {
+  git -C "$SITE_CACHE" pull --rebase --autostash >/dev/null 2>&1 || true
+  if git -C "$SITE_CACHE" diff --cached --quiet; then :; else
+    git -C "$SITE_CACHE" -c user.name="FitXMatt Bot" -c user.email="kovokilla@gmail.com" \
+      commit -m "ig text carousel #$N" >/dev/null 2>&1
+    git -C "$SITE_CACHE" push >/dev/null 2>&1 && return 0
+  fi
+  return 1
+}
+# Push; if it fails (diverged/shallow), re-clone fresh, re-copy images, retry
+if ! commit_and_push; then
+  rm -rf "$SITE_CACHE"
+  git clone --depth 1 "$SITE_REPO" "$SITE_CACHE" >/dev/null 2>&1 || fail "SITE_CLONE_FAIL"
+  mkdir -p "$SITE_CACHE/assets/ig"
+  for s in 1 2 3; do
+    cp "$CARO/slide$s.png" "$SITE_CACHE/assets/ig/text_${IDX}_$s.png"
+    git -C "$SITE_CACHE" add "assets/ig/text_${IDX}_$s.png" 2>/dev/null
+  done
+  commit_and_push || fail "site push failed"
 fi
 for u in "${URLS[@]}"; do
   for i in $(seq 1 24); do
@@ -99,10 +114,14 @@ for u in "${URLS[@]}"; do
   MIDS+=("$MID")
 done
 # carousel container referencing the 3 children
+# Pass caption via temp file to avoid shell-quoting truncation of quotes/newlines
+CAPFILE=$(mktemp /tmp/ig_cap.XXXXXX.txt)
+printf '%s' "$CAPTION" > "$CAPFILE"
 CRESP=$(curl -sS -m 60 -F "media_type=CAROUSEL" \
   -F "children=${MIDS[0]},${MIDS[1]},${MIDS[2]}" \
-  -F "caption=$CAPTION" \
+  -F "caption=<$CAPFILE" \
   "$API/$IG_USER_ID/media?access_token=$IG_TOKEN" 2>/dev/null)
+rm -f "$CAPFILE"
 CAROUSEL=$(echo "$CRESP" | $PY -c "import sys,json;print(json.load(sys.stdin).get('id',''))" 2>/dev/null)
 [ -n "$CAROUSEL" ] || fail "carousel container: $CRESP"
 # wait for container to finish
